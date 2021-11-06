@@ -16,7 +16,7 @@ d’un objet ou le dépôt (probabiliste) d’un objet et ça illustre dans le c
 
 
 Une grille 50x50, i=1, 20 agents, k+=0,1, k-=0,3, 200 objets de chaque type A ou B
-![alt text](https://github.com/khalidouh/sma-TriCollectif/blob/main/images/Grille initiale.JPG)
+![alt text](https://github.com/khalidouh/sma-TriCollectif/blob/main/images/Grille%20initiale.JPG)
  
  
 
