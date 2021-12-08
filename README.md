@@ -7,7 +7,7 @@ perception, permet à l’agent de récupérer les informations de l’environne
 dans le cas du sujet est soit : le déplacement (aléatoire) d’un pas, la prise (suivant probabilité)
 d’un objet ou le dépôt (probabiliste) d’un objet et ça illustre dans le code suivant.
 
-Architecture Voyelle
+## Architecture Voyelle
 
 A, Environnement
 - Grille où se déplace les agents et où sont placés les objets.
