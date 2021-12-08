@@ -12,7 +12,8 @@ C, Interactions
 - Pas d’interaction dans la première partie.D, Organisation
 - Organisation émergente : Sans que ces comportements soient codés, les agents vont s’auto-organiser pour triés les objets.
 
-![alt text](https://github.com/khalidouh/sma-TriCollectif/blob/master/images/vvv.JPG)+![alt text](https://github.com/khalidouh/sma-TriCollectif/blob/master/images/v33.png)
+![alt text](https://github.com/khalidouh/sma-TriCollectif/blob/master/images/vvv.JPG)
+![alt text](https://github.com/khalidouh/sma-TriCollectif/blob/master/images/v33.png)
 
 
 
